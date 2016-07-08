@@ -1,19 +1,13 @@
-# Concierge Auctions Code Challenge
+# GitHub Challenge
 
-### Introduction
-
-Welcome!
-
-We’re pleased to invite you to take part in our Code Challenge for this full stack developer position. This challenge should take you no more than 2 hours to complete successfully. If you’re reading this then you’ve passed the first part of the challenge which is simply knowing what to do with a zipped source file.
-
-In order for you to pass this code challenge you must reply back to the invitation email with your completed code by the time indicated in the email that was sent to you. The completed code must be in zip format. The only thing we should have to do after unzipping your code is run the following commands:
+## Get Started
 
 ```js
 > npm install
 > npm start
 ```
 
-Once we have started the application we will test it and verify that it passes all requirements listed in the following sections.
+Follow directions on the [ca-test-api](ca-test-api).
 
 ### Application Description
 
@@ -25,8 +19,6 @@ follow any directions they may have. You should also remove them before submitti
 **Requirements**
 * Users should be able to search or repositories by name in the search field.
 * Users should be able to easily add the repository to their favorite list once it is found.
-
-<!-- Favorites Functions -->
 * Favorites should be able to be removed.
 * Each favorite will display the name of the repository, the number of stars that repository has and the last 3 commits to that repository.
 * Each of the commits should display the author’s name and the commit message as well as how long ago it occurred (ex: ‘7 days ago’)
